@@ -1,4 +1,8 @@
-# -EXP-2-Record-Image-Acquisition-using-Web-Camera
+# EXP-2-Record-Image-Acquisition-using-Web-Camera
+# Name : DAKSHA C
+# Register No: 212224230048
+
+
 # Image Acquisition Using Web Camera
 
 ## Aim
@@ -128,20 +132,25 @@ cap.release()
 
 ### i) Write the Frame as a JPG Image
 
-<img width="717" height="517" alt="image" src="https://github.com/user-attachments/assets/cc47f11e-f0f1-4503-9306-f3bef8b8b68b" />
+<img width="590" height="461" alt="Screenshot 2026-10-31 103516" src="https://github.com/user-attachments/assets/ce30f188-d80b-4e31-b312-e0f8057893b5" />
+
 
 
 ### ii) Display the Video
 
-<img width="663" height="502" alt="image" src="https://github.com/user-attachments/assets/5f77c26d-4ab7-4753-aad9-55fe8acf250c" />
+<img width="582" height="437" alt="Screenshot 2026-10-31 103545" src="https://github.com/user-attachments/assets/6c3670dc-d721-40a3-ab0f-afd20a3119ed" />
+
 
 
 ### iii) Display the Video by Resizing the Frame
 
-<img width="352" height="485" alt="image" src="https://github.com/user-attachments/assets/9808fbec-e04a-453c-9b12-c46d906cd9e7" />
+<img width="321" height="442" alt="Screenshot 2026-10-31 103607" src="https://github.com/user-attachments/assets/97f362a3-d14f-40fc-9bef-904ad58e95b3" />
+
 
 
 ### iv) Rotate and Display the Video
+<img width="327" height="448" alt="Screenshot 2026-10-31 103631" src="https://github.com/user-attachments/assets/189e98c5-ecc3-4e0f-a6d6-3e99aea71586" />
+
 
 
 ## Result
